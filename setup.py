@@ -13,6 +13,6 @@ setup(
     description='Wrapper for Toggl API and Reports API',
     install_requires=[
         "iso8601 == 0.1.8",
-        "requests == 2.0.1",
+        "requests == 2.11",
     ],
 )
